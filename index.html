@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gabriel Mukamba | Fashion Model &amp; Innovator</title>
+  <meta name="description" content="Gabriel Mukamba - editorial and runway model, civil engineering scholar and tech innovator based in Kampala, Uganda.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="navbar">
+      <a class="brand" href="index.html">
+        <img src="images/logo.png" alt="GM Logo" class="brand-logo" onerror="this.style.display='none'">
+        <span>GABRIEL MUKAMBA</span>
+      </a>
+      <button class="menu-toggle" id="menuToggle" aria-label="Toggle Menu">&#9776;</button>
+      <ul class="links" id="navLinks">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="lookbook.html">Lookbook (24)</a></li>
+        <li><a href="reels.html">Runway Reels (6)</a></li>
+        <li><a href="journey.html">Mr. IUEA Journey</a></li>
+        <li><a href="contact.html" class="nav-cta">Book &amp; Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-overlay"></div>
+    <img src="images/hero-1.jpg" alt="Gabriel Mukamba signature editorial" class="hero-bg">
+    <div class="hero-content">
+      <span class="kicker">MR. IUEA 2026 FINALIST &bull; KAMPALA &bull; GLOBAL</span>
+      <h1>GABRIEL MUKAMBA</h1>
+      <p class="hero-subtitle">Editorial &amp; Runway Model &bull; Civil Engineering Scholar &bull; Tech Innovator</p>
+      <div class="hero-actions">
+        <a href="lookbook.html" class="btn btn-gold">View All 24 Photos</a>
+        <a href="reels.html" class="btn btn-outline">Watch All 6 Reels</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="comp-card" class="section-dark">
+    <div class="wrap">
+      <div class="section-header">
+        <span class="kicker">AGENCY SPECIFICATIONS</span>
+        <h2>Digital Comp Card</h2>
+        <div class="unit-switch">
+          <button class="unit-btn active" data-unit="metric">Metric (CM / EU)</button>
+          <button class="unit-btn" data-unit="imperial">Imperial (FT / US)</button>
+        </div>
+      </div>
+
+      <div class="comp-grid">
+        <div class="comp-photo">
+          <div class="photo-carousel" id="photoCarousel">
+            <div class="slide" onclick="openMedia('image', 'images/hero-2.jpg', 'Gabriel Mukamba - Signature Portfolio Frame')">
+              <img src="images/hero-2.jpg" alt="Gabriel Mukamba featured portrait 1">
+            </div>
+            <div class="slide" onclick="openMedia('image', 'images/hero-1.jpg', 'Gabriel Mukamba - Editorial Runway Frame')">
+              <img src="images/hero-1.jpg" alt="Gabriel Mukamba featured portrait 2">
+            </div>
+          </div>
+          <div class="carousel-dots" id="carouselDots">
+            <button class="dot active" aria-label="Photo 1"></button>
+            <button class="dot" aria-label="Photo 2"></button>
+          </div>
+          <span class="photo-tag">SWIPE FOR ANOTHER PHOTO &bull; TAP TO ENLARGE</span>
+        </div>
+
+        <div class="comp-details">
+          <div class="stats-table">
+            <div class="stat-box"><span class="stat-label">Height</span><span class="stat-val" data-metric="175 cm" data-imperial="5' 9&quot;">175 cm</span></div>
+            <div class="stat-box"><span class="stat-label">Chest</span><span class="stat-val" data-metric="98 cm" data-imperial="38.5&quot;">98 cm</span></div>
+            <div class="stat-box"><span class="stat-label">Waist</span><span class="stat-val" data-metric="78 cm" data-imperial="31&quot;">78 cm</span></div>
+            <div class="stat-box"><span class="stat-label">Hips</span><span class="stat-val" data-metric="94 cm" data-imperial="37&quot;">94 cm</span></div>
+            <div class="stat-box"><span class="stat-label">Shoe Size</span><span class="stat-val" data-metric="43 EU" data-imperial="10 US">43 EU</span></div>
+            <div class="stat-box"><span class="stat-label">Hair / Eyes</span><span class="stat-val">Black / Dark Brown</span></div>
+            <div class="stat-box"><span class="stat-label">Languages</span><span class="stat-val">English, French, Swahili</span></div>
+            <div class="stat-box"><span class="stat-label">Experience</span><span class="stat-val">Mr. IUEA 2026 &amp; Editorial</span></div>
+          </div>
+          <div class="comp-actions">
+            <button onclick="window.print()" class="btn btn-outline">Print / Save PDF Comp Card</button>
+            <a href="contact.html" class="btn btn-gold">Book Gabriel</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-light">
+    <div class="wrap">
+      <div class="section-header">
+        <span class="kicker">MOTION HIGHLIGHTS</span>
+        <h2>Featured Runway &amp; Campaign Reels</h2>
+        <p class="lead">Selected runway poise and stage presence from Mr. IUEA 2026 and editorial sessions.</p>
+      </div>
+
+      <div class="featured-videos-grid">
+        <div class="video-feature-card">
+          <video controls playsinline preload="metadata" poster="images/hero-1.jpg">
+            <source src="videos/featured-1.mp4" type="video/mp4">
+          </video>
+          <div class="video-info">
+            <span class="badge">FEATURED REEL 01</span>
+            <h3>Runway Walk &amp; Stage Command</h3>
+            <p>Showcasing posture, pacing, and tailored elegance under live spotlight conditions.</p>
+          </div>
+        </div>
+
+        <div class="video-feature-card">
+          <video controls playsinline preload="metadata" poster="images/hero-2.jpg">
+            <source src="videos/featured-2.mp4" type="video/mp4">
+          </video>
+          <div class="video-info">
+            <span class="badge">FEATURED REEL 02</span>
+            <h3>Editorial Motion &amp; Brand Presence</h3>
+            <p>Dynamic camera movement, expression control, and commercial adaptability.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="center-cta">
+        <a href="reels.html" class="btn btn-dark">Explore All 6 Videos &amp; Breakdown &rarr;</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-dark">
+    <div class="wrap">
+      <div class="explore-grid">
+        <a href="lookbook.html" class="explore-card">
+          <span class="kicker">01 / PHOTOGRAPHY</span>
+          <h3>Complete Lookbook</h3>
+          <p>Browse all 24 high-resolution editorial, runway, and brand identity photographs.</p>
+          <span class="arrow">Open Lookbook &rarr;</span>
+        </a>
+        <a href="journey.html" class="explore-card">
+          <span class="kicker">02 / BIOGRAPHY &amp; IMPACT</span>
+          <h3>Mr. IUEA 2026 &amp; Vision</h3>
+          <p>Read my modeling story, Growth Excellence philosophy, and explore IUEA Connect.</p>
+          <span class="arrow">Read Journey &rarr;</span>
+        </a>
+        <a href="contact.html" class="explore-card">
+          <span class="kicker">03 / REPRESENTATION</span>
+          <h3>Bookings &amp; Official Links</h3>
+          <p>Direct WhatsApp &amp; email booking dispatch plus all verified social accounts.</p>
+          <span class="arrow">Get in Touch &rarr;</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <div class="lightbox" id="lightbox">
+    <button class="lightbox-close" id="lightboxClose" aria-label="Close">&times;</button>
+    <div class="lightbox-body" id="lightboxBody"></div>
+    <p class="lightbox-caption" id="lightboxCaption"></p>
+  </div>
+
+  <footer class="site-footer">
+    <div class="wrap footer-flex">
+      <span>&copy; 2026 Gabriel Mukamba. All rights reserved.</span>
+      <div class="footer-links">
+        <a href="index.html">Home</a>
+        <a href="lookbook.html">Lookbook</a>
+        <a href="reels.html">Reels</a>
+        <a href="journey.html">Journey</a>
+        <a href="contact.html">Contact</a>
+        <a href="privacy.html">Privacy Policy</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lookbook | Gabriel Mukamba</title>
+  <meta name="description" content="Editorial and runway lookbook of Gabriel Mukamba.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="navbar">
+      <a class="brand" href="index.html">
+        <img src="images/logo.png" alt="GM Logo" class="brand-logo" onerror="this.style.display='none'">
+        <span>GABRIEL MUKAMBA</span>
+      </a>
+      <button class="menu-toggle" id="menuToggle" aria-label="Toggle Menu">&#9776;</button>
+      <ul class="links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="lookbook.html" class="active">Lookbook (24)</a></li>
+        <li><a href="reels.html">Runway Reels (6)</a></li>
+        <li><a href="journey.html">Mr. IUEA Journey</a></li>
+        <li><a href="contact.html" class="nav-cta">Book &amp; Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="page-banner has-bg" style="background-image: linear-gradient(to bottom, rgba(11,11,12,0.5), rgba(11,11,12,0.88)), url('images/photo-05.jpg');">
+    <div class="wrap">
+      <span class="kicker">COMPLETE PHOTOGRAPHY ARCHIVE</span>
+      <h1>Editorial &amp; Runway Lookbook</h1>
+      <p class="lead">24 curated frames capturing tailored suiting, Mr. IUEA 2026 stage moments, commercial style, and brand identity.</p>
+    </div>
+  </section>
+
+  <section class="section-light">
+    <div class="wrap">
+      <div class="filter-bar">
+        <button class="filter-btn active" data-filter="all">All 24 Photos</button>
+        <button class="filter-btn" data-filter="featured">Signature Hero</button>
+        <button class="filter-btn" data-filter="editorial">Editorial &amp; Commercial</button>
+        <button class="filter-btn" data-filter="runway">Mr. IUEA &amp; Stage</button>
+        <button class="filter-btn" data-filter="branding">Logo &amp; Identity</button>
+      </div>
+
+      <!-- Photos are rendered automatically by script.js -->
+      <div class="media-grid" id="fullPhotoGrid"></div>
+    </div>
+  </section>
+
+  <div class="lightbox" id="lightbox">
+    <button class="lightbox-close" id="lightboxClose" aria-label="Close">&times;</button>
+    <div class="lightbox-body" id="lightboxBody"></div>
+    <p class="lightbox-caption" id="lightboxCaption"></p>
+  </div>
+
+  <footer class="site-footer">
+    <div class="wrap footer-flex">
+      <span>&copy; 2026 Gabriel Mukamba. All rights reserved.</span>
+      <div class="footer-links">
+        <a href="index.html">Home</a>
+        <a href="lookbook.html">Lookbook</a>
+        <a href="reels.html">Reels</a>
+        <a href="journey.html">Journey</a>
+        <a href="contact.html">Contact</a>
+        <a href="privacy.html">Privacy Policy</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
