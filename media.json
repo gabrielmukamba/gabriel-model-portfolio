@@ -1,0 +1,340 @@
+{
+ "photos": [
+  {
+   "src": "images/hero-1.jpg",
+   "cat": "featured",
+   "tag": "SIGNATURE HERO 01",
+   "title": "Main Editorial Frame"
+  },
+  {
+   "src": "images/hero-2.jpg",
+   "cat": "featured",
+   "tag": "SIGNATURE HERO 02",
+   "title": "Comp Card Portrait"
+  },
+  {
+   "src": "images/logo.png",
+   "cat": "branding",
+   "tag": "BRAND IDENTITY",
+   "title": "Gabriel Mukamba Official Logo"
+  },
+  {
+   "src": "images/photo-01.jpg",
+   "cat": "runway",
+   "tag": "MR. IUEA & STAGE",
+   "title": "Portfolio Frame 01"
+  },
+  {
+   "src": "images/photo-02.jpg",
+   "cat": "runway",
+   "tag": "MR. IUEA & STAGE",
+   "title": "Portfolio Frame 02"
+  },
+  {
+   "src": "images/photo-03.jpg",
+   "cat": "runway",
+   "tag": "MR. IUEA & STAGE",
+   "title": "Portfolio Frame 03"
+  },
+  {
+   "src": "images/photo-04.jpg",
+   "cat": "runway",
+   "tag": "MR. IUEA & STAGE",
+   "title": "Portfolio Frame 04"
+  },
+  {
+   "src": "images/photo-05.jpg",
+   "cat": "runway",
+   "tag": "MR. IUEA & STAGE",
+   "title": "Portfolio Frame 05"
+  },
+  {
+   "src": "images/photo-06.jpg",
+   "cat": "runway",
+   "tag": "MR. IUEA & STAGE",
+   "title": "Portfolio Frame 06"
+  },
+  {
+   "src": "images/photo-07.jpg",
+   "cat": "runway",
+   "tag": "MR. IUEA & STAGE",
+   "title": "Portfolio Frame 07"
+  },
+  {
+   "src": "images/photo-08.jpg",
+   "cat": "runway",
+   "tag": "MR. IUEA & STAGE",
+   "title": "Portfolio Frame 08"
+  },
+  {
+   "src": "images/photo-09.jpg",
+   "cat": "runway",
+   "tag": "MR. IUEA & STAGE",
+   "title": "Portfolio Frame 09"
+  },
+  {
+   "src": "images/photo-10.jpg",
+   "cat": "runway",
+   "tag": "MR. IUEA & STAGE",
+   "title": "Portfolio Frame 10"
+  },
+  {
+   "src": "images/photo-11.jpg",
+   "cat": "runway",
+   "tag": "MR. IUEA & STAGE",
+   "title": "Portfolio Frame 11"
+  },
+  {
+   "src": "images/photo-12.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 12"
+  },
+  {
+   "src": "images/photo-13.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 13"
+  },
+  {
+   "src": "images/photo-14.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 14"
+  },
+  {
+   "src": "images/photo-15.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 15"
+  },
+  {
+   "src": "images/photo-16.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 16"
+  },
+  {
+   "src": "images/photo-17.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 17"
+  },
+  {
+   "src": "images/photo-18.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 18"
+  },
+  {
+   "src": "images/photo-19.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 19"
+  },
+  {
+   "src": "images/photo-20.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 20"
+  },
+  {
+   "src": "images/photo-21.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 21"
+  },
+  {
+   "src": "images/photo-22.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 22"
+  },
+  {
+   "src": "images/photo-23.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 23"
+  },
+  {
+   "src": "images/photo-24.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 24"
+  },
+  {
+   "src": "images/photo-25.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 25"
+  },
+  {
+   "src": "images/photo-26.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 26"
+  },
+  {
+   "src": "images/photo-27.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 27"
+  },
+  {
+   "src": "images/photo-28.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 28"
+  },
+  {
+   "src": "images/photo-29.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 29"
+  },
+  {
+   "src": "images/photo-30.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 30"
+  },
+  {
+   "src": "images/photo-31.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 31"
+  },
+  {
+   "src": "images/photo-32.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 32"
+  },
+  {
+   "src": "images/photo-33.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 33"
+  },
+  {
+   "src": "images/photo-34.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 34"
+  },
+  {
+   "src": "images/photo-35.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 35"
+  },
+  {
+   "src": "images/photo-36.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 36"
+  },
+  {
+   "src": "images/photo-37.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 37"
+  },
+  {
+   "src": "images/photo-38.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 38"
+  },
+  {
+   "src": "images/photo-39.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 39"
+  },
+  {
+   "src": "images/photo-40.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 40"
+  },
+  {
+   "src": "images/photo-41.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 41"
+  },
+  {
+   "src": "images/photo-42.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 42"
+  },
+  {
+   "src": "images/photo-43.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 43"
+  },
+  {
+   "src": "images/photo-44.jpg",
+   "cat": "editorial",
+   "tag": "EDITORIAL & COMMERCIAL",
+   "title": "Portfolio Frame 44"
+  }
+ ],
+ "videos": [
+  {
+   "src": "videos/featured-1.mp4",
+   "name": "featured-1.mp4"
+  },
+  {
+   "src": "videos/featured-2.mp4",
+   "name": "featured-2.mp4"
+  },
+  {
+   "src": "videos/video-01.mp4",
+   "name": "video-01.mp4"
+  },
+  {
+   "src": "videos/video-02.mp4",
+   "name": "video-02.mp4"
+  },
+  {
+   "src": "videos/video-03.mp4",
+   "name": "video-03.mp4"
+  },
+  {
+   "src": "videos/video-04.mp4",
+   "name": "video-04.mp4"
+  },
+  {
+   "src": "videos/video-05.mp4",
+   "name": "video-05.mp4"
+  },
+  {
+   "src": "videos/video-06.mp4",
+   "name": "video-06.mp4"
+  },
+  {
+   "src": "videos/video-07.mp4",
+   "name": "video-07.mp4"
+  },
+  {
+   "src": "videos/video-08.mp4",
+   "name": "video-08.mp4"
+  },
+  {
+   "src": "videos/video-09.mp4",
+   "name": "video-09.mp4"
+  },
+  {
+   "src": "videos/video-10.mp4",
+   "name": "video-10.mp4"
+  },
+  {
+   "src": "videos/video-11.mp4",
+   "name": "video-11.mp4"
+  }
+ ]
+}
